@@ -2,7 +2,7 @@
 
 This is a simple weather application created using Python and the Tkinter library. It allows users to search for weather information for a specific location and displays current weather conditions on the GUI.
 
-Features
+# Features
 User-friendly graphical interface.
 Real-time weather data retrieval.
 Display of weather conditions including temperature, wind, humidity, description, and pressure.
